@@ -1,0 +1,13 @@
+﻿Build started 11/14/2020 8:58:26 AM.
+     1>Project "D:\FAST NUCES\My Programs\19L-1110_Assignment_3\19L-1110_Assignment_3\19L-1110_Assignment_3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "19L-1110_CS-3G(Assignment-2).cpp"
+         19L-1110_CS-3G(Assignment-2).cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\FAST NUCES\My Programs\19L-1110_Assignment_3\Debug\19L-1110_Assignment_3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\FAST NUCES\My Programs\19L-1110_Assignment_3\Debug\19L-1110_Assignment_3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\FAST NUCES\My Programs\19L-1110_Assignment_3\Debug\19L-1110_Assignment_3.lib" /MACHINE:X86 "Debug\19L-1110_CS-3G(Assignment-2).obj"
+         19L-1110_Assignment_3.vcxproj -> D:\FAST NUCES\My Programs\19L-1110_Assignment_3\Debug\19L-1110_Assignment_3.exe
+     1>Done Building Project "D:\FAST NUCES\My Programs\19L-1110_Assignment_3\19L-1110_Assignment_3\19L-1110_Assignment_3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.85
